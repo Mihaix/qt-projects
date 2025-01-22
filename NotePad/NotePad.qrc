@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/bold.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/copy.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/create.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/cut.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/edit_redo.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/edit_undo.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/exit.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/font.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/info.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/italic.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/new.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/open.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/paste.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/pencil.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/print.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/save.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/save_as.png</file>
+        <file>D:/Qt/Examples/Qt-6.2.4/widgets/tutorials/notepad/images/underline.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,18 @@
+QPushButton {
+    background-color: #FEE715;
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #FEE715;
+    min-width: 10em;
+    padding: 6px;
+}
+
+QPushButton:hover {
+    background-color: #c6b201;
+    border-color: #c6b201;
+}
+
+StartMenu {
+    background-color: #101820;
+}

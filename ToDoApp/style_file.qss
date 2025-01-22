@@ -1,0 +1,55 @@
+* {
+        font: 10pt black "Verdana";
+}
+
+#newTaskText{
+    font: bold;
+}
+
+QPushButton{
+        width: 80px;
+        height: 80px;
+        border-radius: 10px;
+        border: 3px;
+        border-color: #5CD85A;
+        border-style: outset;
+        background-color: #5CD85A;
+        color: black;
+}
+
+QPushButton:hover{
+   background-color: #32CD30;
+   border-color: #32CD30;
+   color: white;
+
+}
+
+#TaskLabel {
+    font: bold 11pt "Verdana";
+}
+
+#TaskName {
+        border-radius: 10px;
+        border: 3px;
+        background-color: #32CD30;
+}
+
+#DeleteButton{
+    color: white;
+    background-color: #ff2264;
+    border-color: #b91043;
+}
+
+#DeleteButton:hover{
+    background-color: #b91043;
+    border-color: #ff2264;
+}
+
+#allNewTasks {
+        background-color: #107869;
+
+}
+
+#centralwidget {
+        background-color: #1A5653;
+}
